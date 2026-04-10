@@ -1,0 +1,22 @@
+{
+  "source": {
+    "path": "upstream",
+    "channel": "github-head",
+    "defaultBranch": "main",
+    "version": "1.2.1",
+    "rev": "8e069241b67e164bd9018271391d20cc822d40d2"
+  },
+  "package": {
+    "repo": "repo-updater",
+    "version": "1.2.1"
+  },
+  "binary": {
+    "name": "ru",
+    "path": "ru"
+  },
+  "meta": {
+    "description": "Automation-friendly CLI for synchronizing GitHub repositories",
+    "homepage": "https://github.com/Dicklesworthstone/repo_updater",
+    "licenseSpdx": "MIT"
+  }
+}

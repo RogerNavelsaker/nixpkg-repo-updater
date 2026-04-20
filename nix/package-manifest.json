@@ -1,10 +1,13 @@
 {
   "source": {
-    "path": "upstream",
+    "type": "github",
+    "owner": "Dicklesworthstone",
+    "repo": "repo_updater",
     "channel": "github-head",
     "defaultBranch": "main",
     "version": "1.2.1",
-    "rev": "8e069241b67e164bd9018271391d20cc822d40d2"
+    "rev": "8e069241b67e164bd9018271391d20cc822d40d2",
+    "hash": "sha256-V9ysGie1SrSrSQHE2ressqAK85J9yleFUHUAbOYG0Co="
   },
   "package": {
     "repo": "repo-updater",

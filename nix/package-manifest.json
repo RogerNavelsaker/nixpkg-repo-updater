@@ -6,8 +6,8 @@
     "channel": "github-head",
     "defaultBranch": "main",
     "version": "1.2.1",
-    "rev": "a909d95f0e4883371272a9f084c5f7d69a6f9f8c",
-    "hash": "sha256-s5MjRHGg0rhfJos727F941z8rtqxg+KQcUJn9KCgs74="
+    "rev": "5abfa029e21026eb2145bde0c55b2d54ba639917",
+    "hash": "sha256-829BVv8SvmPXgM5SVwqzbCjDBKH4srgJUNUNvm7gDlI="
   },
   "package": {
     "repo": "repo-updater",
